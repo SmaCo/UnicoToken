@@ -23,7 +23,7 @@ TOKEN HIGHLIGHTS:
 - Retrieve other ERC20 tokens sent to your token
 - Start own auction for selling the token
 - Special gift for the first token holder*
-- Verified smart contract on EtherScan and published GitHub
+- Verified smart contract on EtherScan and published on GitHub
 - Possible further developments:
   - Possibility to receive special, personal offers
   - Apply for dedicated AirDrops and token Pre-Sales
