@@ -35,4 +35,4 @@ TERMS:
 - Interacting with Smart Contracts, Tokens and Cryptocurrencies can put your funds at risk. Please be careful about the safety of your private keys, your devices. Use appropriate means for keeping safe from phishing, key theft and funds sent to the wrong address.
 - All technologies used are widely spread, but still under development. We will do our best to secure the Dapp and the Smart Contracts, but we cannot take responsability for any loss.
 
- * If at least 5 bidders participate in the first auction, the first token holder (successful bidder by auction end) will receive a special, gift sent to his postal address
+ * If at least 5 bidders participate in the first auction, the first token holder (successful bidder by auction end) will receive a special, personal gift sent to his postal address
